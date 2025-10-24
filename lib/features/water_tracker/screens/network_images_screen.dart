@@ -6,23 +6,23 @@ class NetworkImagesScreen extends StatelessWidget {
 
   final List<Map<String, String>> images = const [
     {
-      'url': 'https://via.placeholder.com/400x300/00B4D8/FFFFFF',
+      'url': 'https://avatars.mds.yandex.net/i?id=19844ecf17e05468a76692d9c1188fd4_l-5879086-images-thumbs&n=13',
       'title': 'Чистая вода',
     },
     {
-      'url': 'https://via.placeholder.com/400x300/00A86B/FFFFFF',
+      'url': 'https://img.freepik.com/premium-photo/natural-aromatic-fruit-tea-transparent-teapot-cup-among-berries-flowers-warming-aromatic-tea-with-deep-aroma-berries-wildflowers_152625-8752.jpg?size=626&ext=jpg',
       'title': 'Ароматный чай',
     },
     {
-      'url': 'https://via.placeholder.com/400x300/6F4E37/FFFFFF',
+      'url': 'https://i.pinimg.com/736x/c5/b5/95/c5b595cb17b7f3e475f8914c652f9741.jpg',
       'title': 'Свежий кофе',
     },
     {
-      'url': 'https://via.placeholder.com/400x300/FFA500/FFFFFF',
+      'url': 'https://www.shutterstock.com/image-photo/various-freshly-squeezed-fruits-vegetables-260nw-679477138.jpg',
       'title': 'Фруктовый сок',
     },
     {
-      'url': 'https://via.placeholder.com/400x300/1E90FF/FFFFFF',
+      'url': 'https://avatars.mds.yandex.net/i?id=09f9a5d9f45cc014c66c320f68433ea1_sr-4261589-images-thumbs&n=13',
       'title': 'Минеральная вода',
     },
   ];
