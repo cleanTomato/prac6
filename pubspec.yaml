@@ -15,19 +15,7 @@ dependencies:
     sdk: flutter
   cached_network_image: ^3.3.1
 
-  # Пример подключения пакета provider из GitHub:
-  # provider:
-  #   git:
-  #     url: https://github.com/rrousselGit/provider
-  #     ref: main  # можно указать: main, develop, v1.0.0, или хэш коммита
-  #
-  # Пример подключения пакета из конкретной папки репозитория:
-  # my_custom_widgets:
-  #   git:
-  #     url: https://github.com/example/flutter-widgets
-  #     path: packages/custom_widgets  # путь к пакету внутри репозитория
-  #     ref: v2.1.0  # конкретная версия (тег)
-
+#Изучено версионирование зависимостей
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
